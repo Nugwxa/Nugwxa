@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Troftey**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Spring**
 
 - 📫 How to reach me at **phavorabba@gmail.com**
 
