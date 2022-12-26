@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm OJ</h1>
-<h3 align="center">Junior developer</h3>
+<h3 align="center">Software developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/04/24/e7/0424e758fd78b8bf3ac22d1f8f81a2f8.gif">
 
 - 🔭 I’m currently working on **Troftey**
